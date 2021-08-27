@@ -1,0 +1,10 @@
+while True: 
+		answer = str(input('Run again? (y/n): '))
+		if answer is ('y','n')
+			break
+		print('invalid input')
+	if answer == 'y':
+			continue
+	else:
+		print('goodbye')
+			break
